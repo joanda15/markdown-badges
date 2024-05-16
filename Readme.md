@@ -43,6 +43,10 @@
   - [Contact](#contact)
   - [License](#license)
 
+# <p align="center"> Buttons with reference links 📝</p>
+
+<a href="https://git-scm.com/" target="blank"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></a>
+
 ### Programming Languages
 
 | Name       | Badge                                                                                                                          | Markdown                                                                                                                         |
